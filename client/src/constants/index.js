@@ -35,7 +35,7 @@ export const surpriseMePrompts = [
   "A BBQ that is alive, in the style of a Pixar animated movie",
   "A futuristic cyborg dance club, neon lights",
   "The long-lost Star Wars 1990 Japanese Anime",
-  "A hamburger in the shape of a Rubik’s cube, professional food photography",
+  "A hamburger in the shape of a Rubik's cube, professional food photography",
   "A Synthwave Hedgehog, Blade Runner Cyberpunk",
   "An astronaut encountering an alien life form on a distant planet, photography",
   "A Dinosaur exploring Cape Town, photography",
